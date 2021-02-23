@@ -1,0 +1,12 @@
+{
+    "name": "nicolaslechenic/coffee-bdd",
+    "authors": [
+        {
+            "name": "Nicolas LE CHENIC",
+            "email": "nicolaslechenic@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
